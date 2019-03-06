@@ -1,0 +1,24 @@
+{
+    "employees": [
+        { "id": 1, "name": "Jessica Younker" },
+        { "id": 2, "name": "Jordan Nelson" },
+        { "id": 3, "name": "Zoe LeBlanc" },
+        { "id": 4, "name": "Blaise Roberts" }
+    ],
+
+    "store": [
+        { "id": 1, "address": "123 street", "name": "Big Bar" },
+        { "id": 2, "address": "321 lane", "name": "Small Bar" },
+        { "id": 3, "address": "123 drive", "name": "Bar Palace" },
+        { "id": 4, "address": "321 alley", "name": "Bar Castle" }
+    ],
+
+    "candy": [
+        { "id": 1, "name": "snickers" },
+        { "id": 2, "name": "jolly rancher" },
+        { "id": 3, "name": "lemon drops" },
+        { "id": 4, "name": "gummy bears" }
+    ]
+
+
+}
